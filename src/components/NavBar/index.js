@@ -32,7 +32,7 @@ class NavBar extends Component {
       <nav className="navbar">
         <img
           className="profile-image"
-          src="https://assets.ccbp.in/frontend/react-js/portfolio-profile-img.png"
+          src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/profile-avatar-img.png"
           alt="profile"
         />
         <ul className="nav-items-list">{this.renderNavItemsList()}</ul>
